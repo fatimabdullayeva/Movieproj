@@ -1,0 +1,37 @@
+
+.main-page__search-box {
+    margin-bottom: 35px;
+}
+.main-page__content
+{
+    margin: 2%;
+    width: 26%;
+}
+aside{
+    width: 69%;
+}
+.main-page__movies{
+    margin-top: 10%;
+}
+.main-page_list{
+    width: 90%;
+    border: 2px solid violet;
+}
+.main-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 5%;
+}
+/* @media (max-width: 650px) {
+    .main-page__content {
+        flex-direction: column;
+        align-items: center;
+    }
+    .main-page__main-section {
+        width: 90%;
+    }
+    .main-page__favorites {
+        width: 90%;   
+    }
+} */

@@ -1,0 +1,14 @@
+.movies__item {
+    margin: 1%;
+    margin-bottom: 21px;
+    width: 400px;
+    /* height: 386px; */
+    padding: 1%;
+    
+}
+.movies{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}

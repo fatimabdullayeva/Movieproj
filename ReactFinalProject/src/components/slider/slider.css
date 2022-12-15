@@ -1,0 +1,16 @@
+.carousel-inner{
+    width: 90% !important;
+    margin: 4%;
+}
+img{
+    
+    object-fit: contain;
+}
+.carousel-item{
+    width: 1158px;
+    height: 518px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    object-fit: contain;
+}
